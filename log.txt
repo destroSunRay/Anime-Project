@@ -228,4 +228,3 @@
 
 [2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
 18568, Overtake!
-
