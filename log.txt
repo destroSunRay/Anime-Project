@@ -1,0 +1,231 @@
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18594, Under Ninja
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18003, Chiikawa
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18543, A Girl & Her Guard Dog
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18606, Yuzuki-san Chi no Yonkyoudai.
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18585, The Ancient Magus' Bride Season 2 Part 2
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18565, My Daughter Left the Nest and Returned an S-Rank Adventurer
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18617, Kizuna no Allele Season 2
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+17322, Peerless Martial Spirit
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+4037, Wushen Zhuzai
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18018, Swallowed Star 2nd Season
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18602, KamiErabi GOD.app
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18610, 16bit Sensation: Another Layer
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18608, Umamusume: Pretty Derby Season 3
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18334, Nights with a Cat
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18591, I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18613, Bullbuster
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+14951, Ling Jian Zun 4th Season
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+13488, One Step Toward Freedom
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18627, Tokyo Revengers: Tenjiku-hen [Uncensored]
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18575, Tokyo Revengers: Tenjiku-hen
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18475, Helck
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18587, The Saint's Magic Power is Omnipotent Season 2
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18601, Paradox Live the Animation
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18416, Soul Land 2: Peerless Tang Sect
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18516, Little Shark's Outings
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+17346, B-Project: Netsuretsu*Love Call
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18604, A Playthrough of a Certain Dude's VRMMO Life
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18584, The Demon Sword Master of Excalibur Academy
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18599, Shy
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18582, Ron Kamonohashi's Forbidden Deductions
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18607, Migi & Dali
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18359, The Blue Orchestra
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18463, Yami Shibai 11
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18482, Dark Gathering
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18593, Berserk of Gluttony
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18568, Overtake!
+
+[2023-10-05 16:20:34] ERROR: unable to extract data from following anime:
+18569, The Family Circumstances of the Irregular Witch
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18487, Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18594, Under Ninja
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18003, Chiikawa
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18543, A Girl & Her Guard Dog
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18606, Yuzuki-san Chi no Yonkyoudai.
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18413, Jujutsu Kaisen 2nd Season
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18585, The Ancient Magus' Bride Season 2 Part 2
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18565, My Daughter Left the Nest and Returned an S-Rank Adventurer
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18617, Kizuna no Allele Season 2
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+17322, Peerless Martial Spirit
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+4037, Wushen Zhuzai
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18018, Swallowed Star 2nd Season
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18602, KamiErabi GOD.app
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18610, 16bit Sensation: Another Layer
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18608, Umamusume: Pretty Derby Season 3
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18334, Nights with a Cat
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18505, The Eminence in Shadow Season 2
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18591, I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18613, Bullbuster
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+14951, Ling Jian Zun 4th Season
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+13488, One Step Toward Freedom
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18627, Tokyo Revengers: Tenjiku-hen [Uncensored]
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18575, Tokyo Revengers: Tenjiku-hen
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18475, Helck
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18587, The Saint's Magic Power is Omnipotent Season 2
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18601, Paradox Live the Animation
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18416, Soul Land 2: Peerless Tang Sect
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18516, Little Shark's Outings
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+17346, B-Project: Netsuretsu*Love Call
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18604, A Playthrough of a Certain Dude's VRMMO Life
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18584, The Demon Sword Master of Excalibur Academy
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18590, I'm in Love with the Villainess
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18599, Shy
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18582, Ron Kamonohashi's Forbidden Deductions
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18607, Migi & Dali
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18359, The Blue Orchestra
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18463, Yami Shibai 11
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18482, Dark Gathering
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18593, Berserk of Gluttony
+
+[2023-10-05 23:30:36] ERROR: unable to extract data from following anime:
+18568, Overtake!
+
