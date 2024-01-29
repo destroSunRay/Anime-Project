@@ -98,17 +98,17 @@ def collect_website_data(animes, anime_interests, year, season):
                 if '×' in anime_eps:
                     number_eps = anime_eps.split(' × ')[0].split(' ')[0]
                     number_eps = int(number_eps) if '?' not in number_eps else 0
-                    anime_duration = int(anime_eps.split(' × ')[1][:-1])
+                    ep_duration = int(anime_eps.split(' × ')[1][:-1])
                 else:
                     number_eps = 1
-                    anime_duration = int(anime_eps[:-1])
+                    ep_duration = int(anime_eps[:-1])
             except Exception as e:
                 record_error(id, title, 'number of episodes',
                                     "info.find('div',class_='anime-episodes').text.strip()",
                                     info.find('div',class_='anime-episodes').text.strip(),
                                     e, now, season, year)
                 number_eps = None
-                anime_duration = None
+                ep_duration = None
 
             # Summary
             try:
@@ -155,6 +155,8 @@ def collect_website_data(animes, anime_interests, year, season):
                 'year': year,
                 'season': season,
                 'generes': generes,
+                'duration': ep_duration,
+                'num_eps': number_eps,
                 'next_ep': next_ep,
                 'next_ep_datetime': next_ep_datetime,
                 'image' : image,
